@@ -1,0 +1,145 @@
+/* Universal code */
+
+html {
+    background-color: white;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 20px auto;
+    width: 80%;
+}
+
+h1 {
+    
+}
+
+/* Header */
+
+header {
+
+}
+
+main.banner {
+
+}
+
+/* Nav */
+
+nav {
+
+}
+
+/* Section Container */
+
+.container {
+    border: 3px gray solid;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.color {
+    width:32%;
+    height: 100px;
+    display: inline-block;
+    margin: 20px auto;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+.hot-pink {
+    background-color:#FFAEBC;
+}
+
+.tiffany-blue {
+    background-color: #A0E7E5;
+}
+
+.mint {
+    background-color: #B4F8C8;
+}
+
+.yellow {
+    background-color: #FBE7C6;
+}
+
+.font-block {
+    display: inline-block;
+    margin: 20px 0;
+    width: 45%;
+    line-height: 2.5;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    
+}
+
+.nunito {
+    font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.poppins {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.font-title {
+    text-decoration: underline;
+}
+
+.font-regular {
+    font-weight: 400;
+}
+
+.font-bold {
+    font-style: bold;
+    font-weight: 800;
+}
+
+.font-italic {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.text-styles-block {
+    display: block;
+    margin: 20px 0;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+.size1 li {
+    font-size: 26px;
+    font-style: bold;
+}
+
+.size2 li {
+    font-size: 18px;
+}
+
+.size3 li {
+    font-size: 14px;
+}
+
+/* Section */
